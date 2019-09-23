@@ -12,9 +12,10 @@
  **********************************************************************/
 
 /**
- * Internal package containing the dialog that is displayed in order to perform the copy to clipboard action
+ * Internal package containing the dialog that is displayed in order to perform 
+ * the copy to clipboard action.
+ * 
  * @author David Marina
- *
  */
 package org.eclipse.swt.dnd.internal;
 

@@ -12,9 +12,9 @@
  **********************************************************************/
 
 /**
- * Package containing an implementation of the SWT Clipboard for Eclipse RAP
+ * Package containing an implementation of the SWT Clipboard for Eclipse RAP.
+ * 
  * @author David Marina
- *
  */
 package org.eclipse.swt.dnd;
 

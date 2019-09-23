@@ -24,7 +24,6 @@ import org.eclipse.swt.widgets.Composite;
  */
 public class DirectoryFieldEditor extends StringFieldEditor
 {
-
     /** The serialVersionUID of this DirectoryFieldEditor.java */
     private static final long serialVersionUID = -5559860376408812674L;
 

@@ -14,9 +14,8 @@
 /**
  * Package containing additional SWT widgets. Includes a FileDialog
  * implementation that extends the API of the FileDialog provided by RAP with
- * some additional public methods existing in the RCP FileDialog
+ * some additional public methods existing in the RCP FileDialog.
  * 
  * @author David Marina
- *
  */
 package org.eclipse.swt.widgets;

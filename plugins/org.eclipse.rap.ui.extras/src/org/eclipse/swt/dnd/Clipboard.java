@@ -9,6 +9,10 @@
  * 
  * Contributors:
  *     European Space Agency - initial API and implementation
+ *       This class contains contributions from the the original
+ *       RCP version of the class (org.eclipse.swt.dnd.Clipboard),
+ *       contributed by IBM Corporation, which source is available 
+ *       under http://www.eclipse.org.  
  **********************************************************************/
 
 package org.eclipse.swt.dnd;

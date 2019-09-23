@@ -18,11 +18,10 @@ package org.eclipse.swt.widgets;
  * <i>org.eclipse.rap.filedialog</i> plugin.
  * 
  * @author Jean Schuetz
- * 
+ * @since 2.6.0
  */
 public class FileDialogRAP extends FileDialog
 {
-
     /** The serialVersionUID of this FileDialogRAP.java */
     private static final long serialVersionUID = 4271114673052111996L;
 

@@ -12,9 +12,9 @@
  **********************************************************************/
 
 /**
- * Package containing an implementation of the SWT TableCursor for Eclipse RAP
- * @author David Marina
+ * Package containing an implementation of the SWT TableCursor for Eclipse RAP.
  *
+ * @author David Marina
  */
 package org.eclipse.swt.custom;
 

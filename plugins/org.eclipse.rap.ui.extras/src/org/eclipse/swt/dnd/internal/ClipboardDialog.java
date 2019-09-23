@@ -33,12 +33,11 @@ import org.eclipse.swt.widgets.Shell;
 import org.eclipse.swt.widgets.Text;
 
 /**
- * @author David Marina (GMV)
- * 
+ * @author David Marina
+ * @since 2.6.4
  */
 public class ClipboardDialog extends TitleAreaDialog
 {
-
     /** The dialog title */
     public static final String DEFAULT_DIALOG_TITLE = "Copy Text to Clipboard";
 
