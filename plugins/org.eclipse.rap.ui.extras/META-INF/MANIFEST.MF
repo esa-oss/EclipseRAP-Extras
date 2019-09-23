@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: RAP UI Extras
+Bundle-SymbolicName: org.eclipse.rap.ui.extras
+Automatic-Module-Name: org.eclipse.rap.ui.extras
+Bundle-Version: 3.2.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Capability: org.eclipse.rap
+Require-Bundle: org.eclipse.rap.rwt,
+ org.eclipse.rap.jface,
+ org.eclipse.rap.filedialog;bundle-version="3.1.2"
+Import-Package: javax.servlet.http
+Export-Package: org.eclipse.jface.preference;uses:="org.eclipse.swt.widgets",
+ org.eclipse.swt.custom;uses:="org.eclipse.swt.events,org.eclipse.swt.graphics,org.eclipse.swt.widgets",
+ org.eclipse.swt.dnd;uses:="org.eclipse.swt.widgets",
+ org.eclipse.swt.widgets
+Bundle-Vendor: esa.int
