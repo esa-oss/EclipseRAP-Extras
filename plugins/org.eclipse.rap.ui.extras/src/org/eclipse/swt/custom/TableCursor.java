@@ -1,4 +1,3 @@
-package org.eclipse.swt.custom;
 /*******************************************************************************
  * Copyright (c) 2000, 2009 IBM Corporation and others.
  * All rights reserved. This program and the accompanying materials
@@ -11,6 +10,7 @@ package org.eclipse.swt.custom;
  *     European Space Agency - Eclipse RAP adaptation (from org.eclipse.swt.win32.win32.x86_64 3.5.0)
  *******************************************************************************/
 
+package org.eclipse.swt.custom;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.SWTException;
