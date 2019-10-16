@@ -5,7 +5,6 @@ Bundle-SymbolicName: org.eclipse.rap.ui.extras
 Automatic-Module-Name: org.eclipse.rap.ui.extras
 Bundle-Version: 3.2.0.qualifier
 Bundle-RequiredExecutionEnvironment: JavaSE-11
-Require-Capability: org.eclipse.rap
 Require-Bundle: org.eclipse.rap.rwt,
  org.eclipse.rap.jface,
  org.eclipse.rap.filedialog;bundle-version="3.1.2"
