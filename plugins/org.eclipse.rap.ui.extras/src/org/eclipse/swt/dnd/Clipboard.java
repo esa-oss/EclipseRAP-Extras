@@ -131,7 +131,7 @@ public class Clipboard
      * @since 3.0
      */
     public boolean isDisposed () {
-        return (display == null);
+        return (this.display == null);
     }
 
     /**

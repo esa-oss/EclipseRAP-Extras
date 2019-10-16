@@ -61,6 +61,7 @@ public class FileDialogRAP extends FileDialog
     /**
      * @param filterExtensions
      */
+    @Override
     public void setFilterExtensions(String[] filterExtensions)
     {
         // Do nothing
